@@ -1,0 +1,237 @@
+
+hellokitty.pack.png
+size: 1024,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+card
+  rotate: false
+  xy: 504, 342
+  size: 60, 64
+  orig: 60, 64
+  offset: 0, 0
+  index: 1
+card
+  rotate: false
+  xy: 504, 276
+  size: 60, 64
+  orig: 60, 64
+  offset: 0, 0
+  index: 2
+card
+  rotate: false
+  xy: 504, 210
+  size: 60, 64
+  orig: 60, 64
+  offset: 0, 0
+  index: 3
+card
+  rotate: false
+  xy: 504, 144
+  size: 60, 64
+  orig: 60, 64
+  offset: 0, 0
+  index: 4
+card
+  rotate: false
+  xy: 504, 78
+  size: 60, 64
+  orig: 60, 64
+  offset: 0, 0
+  index: 5
+card
+  rotate: false
+  xy: 572, 404
+  size: 60, 64
+  orig: 60, 64
+  offset: 0, 0
+  index: 6
+card
+  rotate: false
+  xy: 634, 404
+  size: 60, 64
+  orig: 60, 64
+  offset: 0, 0
+  index: 7
+card
+  rotate: false
+  xy: 696, 404
+  size: 60, 64
+  orig: 60, 64
+  offset: 0, 0
+  index: 8
+card
+  rotate: false
+  xy: 758, 404
+  size: 60, 64
+  orig: 60, 64
+  offset: 0, 0
+  index: 9
+card
+  rotate: false
+  xy: 820, 404
+  size: 60, 64
+  orig: 60, 64
+  offset: 0, 0
+  index: 10
+card
+  rotate: false
+  xy: 882, 404
+  size: 60, 64
+  orig: 60, 64
+  offset: 0, 0
+  index: 11
+card
+  rotate: false
+  xy: 944, 404
+  size: 60, 64
+  orig: 60, 64
+  offset: 0, 0
+  index: 12
+card
+  rotate: false
+  xy: 139, 2
+  size: 60, 64
+  orig: 60, 64
+  offset: 0, 0
+  index: 13
+card
+  rotate: false
+  xy: 201, 2
+  size: 60, 64
+  orig: 60, 64
+  offset: 0, 0
+  index: 14
+card
+  rotate: false
+  xy: 263, 2
+  size: 60, 64
+  orig: 60, 64
+  offset: 0, 0
+  index: 15
+card
+  rotate: false
+  xy: 325, 2
+  size: 60, 64
+  orig: 60, 64
+  offset: 0, 0
+  index: 16
+card
+  rotate: false
+  xy: 387, 2
+  size: 60, 64
+  orig: 60, 64
+  offset: 0, 0
+  index: 17
+card
+  rotate: false
+  xy: 566, 338
+  size: 60, 64
+  orig: 60, 64
+  offset: 0, 0
+  index: 18
+card
+  rotate: false
+  xy: 566, 272
+  size: 60, 64
+  orig: 60, 64
+  offset: 0, 0
+  index: 19
+card
+  rotate: false
+  xy: 628, 338
+  size: 60, 64
+  orig: 60, 64
+  offset: 0, 0
+  index: 20
+card
+  rotate: false
+  xy: 566, 206
+  size: 60, 64
+  orig: 60, 64
+  offset: 0, 0
+  index: 21
+card
+  rotate: false
+  xy: 628, 272
+  size: 60, 64
+  orig: 60, 64
+  offset: 0, 0
+  index: 22
+card
+  rotate: false
+  xy: 690, 338
+  size: 60, 64
+  orig: 60, 64
+  offset: 0, 0
+  index: 23
+card
+  rotate: false
+  xy: 566, 140
+  size: 60, 64
+  orig: 60, 64
+  offset: 0, 0
+  index: 24
+introKitty
+  rotate: false
+  xy: 504, 408
+  size: 66, 60
+  orig: 66, 60
+  offset: 0, 0
+  index: 1
+introKitty
+  rotate: false
+  xy: 71, 6
+  size: 66, 60
+  orig: 66, 60
+  offset: 0, 0
+  index: 2
+introKittyWalk
+  rotate: false
+  xy: 2, 6
+  size: 67, 60
+  orig: 67, 60
+  offset: 0, 0
+  index: -1
+open
+  rotate: false
+  xy: 628, 206
+  size: 60, 64
+  orig: 60, 64
+  offset: 0, 0
+  index: 0
+open
+  rotate: false
+  xy: 690, 272
+  size: 60, 64
+  orig: 60, 64
+  offset: 0, 0
+  index: 1
+open
+  rotate: false
+  xy: 752, 338
+  size: 60, 64
+  orig: 60, 64
+  offset: 0, 0
+  index: 2
+open
+  rotate: false
+  xy: 628, 140
+  size: 60, 64
+  orig: 60, 64
+  offset: 0, 0
+  index: 3
+open
+  rotate: false
+  xy: 690, 206
+  size: 60, 64
+  orig: 60, 64
+  offset: 0, 0
+  index: 4
+startScreen
+  rotate: false
+  xy: 2, 68
+  size: 500, 400
+  orig: 500, 400
+  offset: 0, 0
+  index: -1
